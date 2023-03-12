@@ -1,0 +1,15 @@
+D:\OOP c# projects\ASK.fm\bin\Debug\net6.0\ASK.fm.exe
+D:\OOP c# projects\ASK.fm\bin\Debug\net6.0\ASK.fm.deps.json
+D:\OOP c# projects\ASK.fm\bin\Debug\net6.0\ASK.fm.runtimeconfig.json
+D:\OOP c# projects\ASK.fm\bin\Debug\net6.0\ASK.fm.dll
+D:\OOP c# projects\ASK.fm\bin\Debug\net6.0\ASK.fm.pdb
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.csproj.AssemblyReference.cache
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.AssemblyInfoInputs.cache
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.AssemblyInfo.cs
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.csproj.CoreCompileInputs.cache
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.dll
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\refint\ASK.fm.dll
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.pdb
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ASK.fm.genruntimeconfig.cache
+D:\OOP c# projects\ASK.fm\obj\Debug\net6.0\ref\ASK.fm.dll

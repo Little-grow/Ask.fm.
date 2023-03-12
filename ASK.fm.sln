@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASK.fm", "ASK.fm.csproj", "{39E2ED2E-F4F8-4B1B-B090-F79D41C6D532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E2ED2E-F4F8-4B1B-B090-F79D41C6D532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E2ED2E-F4F8-4B1B-B090-F79D41C6D532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E2ED2E-F4F8-4B1B-B090-F79D41C6D532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E2ED2E-F4F8-4B1B-B090-F79D41C6D532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5597FAB1-BBB3-43DB-BF5F-F05D2743C01A}
+	EndGlobalSection
+EndGlobal
